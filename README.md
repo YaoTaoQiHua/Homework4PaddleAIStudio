@@ -178,4 +178,4 @@ aistudio链接：[基于ConvNeXt的矿石种类识别](https://aistudio.baidu.co
 
 github链接：[Homework4PaddleAIStudio](https://github.com/YaoTaoQiHua/Homework4PaddleAIStudio)
 
-gitee链接：[基于ConvNeXt的矿石种类识别]()
+gitee链接：[基于ConvNeXt的矿石种类识别](https://gitee.com/wei-mingquan/homework4-paddle-aistudio)
